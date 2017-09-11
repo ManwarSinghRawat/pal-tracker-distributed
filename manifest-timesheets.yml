@@ -9,5 +9,5 @@ applications:
     TRUST_CERTS: api.sys.longs.pal.pivotal.io 
   services:
   - tracker-timesheets-database
-    tracker-service-registry
+  - tracker-service-registry
 
